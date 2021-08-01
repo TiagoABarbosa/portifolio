@@ -1,12 +1,10 @@
-# portifolio :dart:
+# portifólio :dart:
 
-Meu portifólio (em construção)
+Meu portifólio (em construção) 2021 💻
 
 ## Tasks 
 
 O controle das tarefas será realizado no GitHub 
-
-💻:Icon
 
 - :package: Nova funcionalidade
 - :up: Atualização
