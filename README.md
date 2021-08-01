@@ -1,4 +1,4 @@
-# portifolio
+# portifolio :dart:
 
 Meu portifólio (em construção)
 
@@ -6,7 +6,7 @@ Meu portifólio (em construção)
 
 O controle das tarefas será realizado no GitHub 
 
-##Icon
+💻:Icon
 
 - :package: Nova funcionalidade
 - :up: Atualização
